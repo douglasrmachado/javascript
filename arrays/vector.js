@@ -13,7 +13,7 @@ console.log(frutas[0]);
 console.log(frutas[1]);
 
 //Add a element to the vector
-frutas[4] = "melancia";
+frutas[4] = "melancias";
 console.log(frutas);
 
 // We can change the element value
