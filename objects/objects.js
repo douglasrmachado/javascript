@@ -40,7 +40,7 @@ const tarefas =  [
     },
     {
         id: 2,
-        texto: "Varrer o chão",
+        texto: "Jogar LoL",
         completo: true
     },
     {
