@@ -40,7 +40,7 @@
 
  // let = allows changing the variable value
  let nomes = "Josué, Vinicius"; 
- nomes = "Asafh, Jacke";
+ nomes = "Yoshi, Gaby";
 
  console.log(nomes);
 
